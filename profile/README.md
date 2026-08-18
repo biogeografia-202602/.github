@@ -122,5 +122,5 @@ El código QR de arriba redirige a
 
 - [Proyecto de investigación/desarrollo. Tu tema, tu investigación.
   Biogeografía (GEO-131). Universidad Autónoma de Santo Domingo (UASD).
-  Semestre 2026-02](). Plazo de entrega: 14 de diciembre, 2026, 11:59
-  pm.
+  Semestre 2026-02](https://classroom.github.com/a/-HTkak25). Plazo de
+  entrega: 14 de diciembre, 2026, 11:59 pm.
