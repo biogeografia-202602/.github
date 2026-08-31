@@ -100,7 +100,10 @@ que herramientas externas de IA cometen muchos errores, especialmente al
 momento de realizar gráficos y mapas.
 
 - [PA01. Técnicas de ecología numérica con *datasets* de
-  R](https://classroom.github.com/a/kXukdjBw). Plazo de entrega
+  R](https://classroom50.org/biogeografia-202602/geo131-202602/assignments/pa01-tecnicas-ecologia-numerica-con-datasets-d/accept).
+  **IMPORTANTE**: antes de hacer clic, verifica en
+  [Repositories](https://github.com/orgs/biogeografia-202602/repositories)
+  si ya tienes creado tu clon de repo de esta PA01. Plazo de entrega
   (manuscrito + presentación + defensa + evaluación en aula): 8 de
   septiembre, 2026, 4:00 pm.
 
@@ -168,7 +171,11 @@ presentación. Si aún no lo eres, pídeme que te invite.
 
 - [Proyecto de investigación/desarrollo. Tu tema, tu investigación.
   Biogeografía (GEO-131). Universidad Autónoma de Santo Domingo (UASD).
-  Semestre 2026-02](https://classroom.github.com/a/-HTkak25). Plazo de
+  Semestre
+  2026-02](https://classroom50.org/biogeografia-202602/geo131-202602/assignments/proyecto-de-investigacion/accept).
+  **IMPORTANTE**: antes de hacer clic, verifica en
+  [Repositories](https://github.com/orgs/biogeografia-202602/repositories)
+  si ya tienes creado tu clon de repo de este Proyecto. Plazo de
   entrega: 14 de diciembre, 2026, 11:59 pm.
 
 ## Tutoriales interactivos
