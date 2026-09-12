@@ -59,8 +59,7 @@ Las prácticas de aula las realizarás en tu propio clon de repositorio, el cual
 - [PA01. Técnicas de ecología numérica con *datasets* de R](https://classroom50.org/biogeografia-202602/geo131-202602/assignments/pa01-tecnicas-ecologia-numerica-con-datasets-d/accept). **IMPORTANTE**: antes de hacer clic, verifica en [Repositories](https://github.com/orgs/biogeografia-202602/repositories) si ya tienes creado tu clon de repo de esta PA01. Plazo de entrega (manuscrito + presentación + defensa + evaluación en aula): 8 de septiembre, 2026, 4:00 pm.
 
 
-<!-- - [PA02. Medio físico, variables ambientales, análisis espacial, correlación, regresión](https://classroom.github.com/a/C_m7hHhZ). Plazo de entrega (con presentación + defensa + evaluación en aula): 31 de marzo, 2026, 4:00 pm. -->
-
+- [PA02. Medio físico, ambiente y biodiversidad de un municipio dominicano](https://classroom50.org/biogeografia-202602/geo131-202602/assignments/pa02-medio-fisico-biodiversidad/accept). Plazo de entrega (con presentación + defensa + evaluación en aula): 22 de septiembre, 2026, 4:00 pm.
 
 <!-- - [PA03. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria). Plazo de entrega: en el aula, 9 de septiembre, 2025, 7:59 pm. -->
 

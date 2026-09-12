@@ -107,7 +107,11 @@ momento de realizar gráficos y mapas.
   (manuscrito + presentación + defensa + evaluación en aula): 8 de
   septiembre, 2026, 4:00 pm.
 
-<!-- - [PA02. Medio físico, variables ambientales, análisis espacial, correlación, regresión](https://classroom.github.com/a/C_m7hHhZ). Plazo de entrega (con presentación + defensa + evaluación en aula): 31 de marzo, 2026, 4:00 pm. -->
+- [PA02. Medio físico, ambiente y biodiversidad de un municipio
+  dominicano](https://classroom50.org/biogeografia-202602/geo131-202602/assignments/pa02-medio-fisico-biodiversidad/accept).
+  Plazo de entrega (con presentación + defensa + evaluación en aula): 22
+  de septiembre, 2026, 4:00 pm.
+
 <!-- - [PA03. Inferencia estadística a partir de dos muestras independientes usando datos biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria). Plazo de entrega: en el aula, 9 de septiembre, 2025, 7:59 pm. -->
 <!-- - [PA03. Agrupar provincias según su riqueza relativa de especies por géneros de Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza). Plazo de entrega: 4 de marzo, 2024, 7:59 pm. -->
 <!-- - [PA04: Análisis Exploratorio de Datos (AED) y Paradoja de Orlócy](https://github.com/biogeografia-master/aed-transformaciones-orlocy). Plazo de entrega: 17 de marzo, 2025, 11:59 pm. -->
